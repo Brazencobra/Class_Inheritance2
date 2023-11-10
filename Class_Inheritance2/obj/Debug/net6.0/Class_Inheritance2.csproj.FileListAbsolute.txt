@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\bin\Debug\net6.0\Class_Inheritance2.exe
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\bin\Debug\net6.0\Class_Inheritance2.deps.json
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\bin\Debug\net6.0\Class_Inheritance2.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\bin\Debug\net6.0\Class_Inheritance2.dll
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\bin\Debug\net6.0\Class_Inheritance2.pdb
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.dll
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\refint\Class_Inheritance2.dll
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.pdb
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\Class_Inheritance2.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Class_Inheritance2\Class_Inheritance2\obj\Debug\net6.0\ref\Class_Inheritance2.dll
